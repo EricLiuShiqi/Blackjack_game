@@ -1,2 +1,1 @@
-# Blackjack_game
-二十一点模拟程序；updated in 2018-08
+# Berkeley 2018 Summer campus project: Blackjack_game
